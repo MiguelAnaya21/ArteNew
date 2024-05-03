@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Arte</string>
+    <string name="obra1">La enigmática sonrisa de la Mona Lisa ha desconcertado a los espectadores durante siglos. Pintada por Leonardo da Vinci en el Renacimiento italiano, esta obra maestra es conocida por su técnica magistral y su expresión misteriosa.</string>
+    <string name="titulo1">Mona Lisa - Leonardo da Vinci</string>
+    <string name="obra2">En esta pintura, Van Gogh captura la vibrante energía del cielo nocturno sobre el paisaje de Saint-Rémy-de-Provence. Las pinceladas tumultuosas y los colores vivos reflejan la tormenta emocional del artista.</string>
+    <string name="titulo2">La noche estrellada - Vincent van Gogh:</string>
+    <string name="obra3">Los relojes blandos y derretidos son el símbolo más icónico de esta obra surrealista. Dalí desafía la lógica y la percepción del tiempo en este paisaje onírico y surrealista.</string>
+    <string name="titulo3">La persistencia de la memoria - Salvador Dalí:</string>
+    <string name="obra4">Esta obra maestra del Renacimiento italiano representa a los grandes filósofos y pensadores de la Antigua Grecia reunidos en un espacio arquitectónico majestuoso. Pintada por Rafael, esta obra es conocida por su composición equilibrada y su representación idealizada de la sabiduría antigua.</string>
+    <string name="titulo4">La escuela de Atenas - Rafael: </string>
+    <string name="obra5">Esta pintura monumental es un poderoso testimonio contra la violencia y el sufrimiento de la guerra. Picasso representa el bombardeo de la ciudad española de Guernica durante la Guerra Civil Española con formas distorsionadas y colores sombríos.</string>
+    <string name="titulo5">Guernica - Pablo Picasso:</string>
+    <string name="obra6">Conocida por su expresión de angustia y desesperación, esta obra de Munch es un ícono del arte moderno. El grito silencioso del protagonista evoca una profunda sensación de alienación y ansiedad.</string>
+    <string name="titulo6">El grito - Edvard Munch:</string>
+    <string name="obra7">En esta obra maestra religiosa, Leonardo da Vinci representa el momento en que Jesús anuncia que uno de sus discípulos lo traicionará. La composición y la expresión facial de los personajes reflejan la intensidad emocional del momento.</string>
+    <string name="titulo7">La última cena - Leonardo da Vinci:</string>
+    <string name="obra8">Esta obra maestra del Renacimiento representa el famoso momento en que Dios da vida a Adán. La composición magistral y la anatomía perfecta son características del genio artístico de Miguel Ángel.</string>
+    <string name="titulo8">La creación de Adán (parte del techo de la Capilla Sixtina) - Miguel Ángel:</string>
+    <string name="obra9">Esta pintura barroca retrata a la infanta Margarita rodeada de su séquito en la corte española. Velázquez desafía las convenciones artísticas al incluirse a sí mismo en el lienzo, creando una intrigante reflexión sobre la naturaleza del arte y la realidad.</string>
+    <string name="titulo9">Las meninas - Diego Velázquez:</string>
+    <string name="obra10">Esta estatua de mármol representa a la diosa griega del amor y la belleza. Con sus curvas suaves y su elegante pose, la Venus de Milo es un símbolo perdurable de la belleza clásica.</string>
+    <string name="titulo10">La Venus de Milo - Escuela de Alejandría, posiblemente de Alexandros de Antioquía:</string>
+</resources>
